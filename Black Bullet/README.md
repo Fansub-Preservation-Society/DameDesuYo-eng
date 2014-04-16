@@ -10,6 +10,11 @@ Credits
 * Encoding: denpa
 * Quality Check: cheshyre, Nazaki
 
+Notes
+=====
+* Episode 2 has a font called "BlackBullet-dialogue", this font's actual name is "Cronos
+  Pro Semibold".
+
 Fonts Used
 ==========
 * [Arial](http://www.myfonts.com/fonts/mti/arial/)
